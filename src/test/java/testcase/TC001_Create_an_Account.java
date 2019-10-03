@@ -1,16 +1,15 @@
 package testcase;
 
-import java.io.IOException;
 import java.util.Hashtable;
 
-import org.openqa.selenium.By;
-import org.testng.Reporter;
+
+
 import org.testng.SkipException;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.relevantcodes.extentreports.ExtentTest;
-import com.relevantcodes.extentreports.LogStatus;
+
+
 
 
 import pages.LogInpage;
